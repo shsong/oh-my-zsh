@@ -228,4 +228,4 @@ build_prompt() {
 }
 
 #PROMPT='%{%f%b%k%}$(build_prompt) '
-PROMPT='%{%F{09}%}[%D{%H:%M:%S}]%{%f%b%k%}$(build_prompt) '
+PROMPT='%{%F{08}%}[%D{%H:%M:%S}]%{%f%b%k%}$(build_prompt) '
